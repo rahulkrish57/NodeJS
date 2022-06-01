@@ -1,4 +1,4 @@
-# NodeJS(www.google.com)
+# NodeJS  https://nodejs.org/docs/latest-v17.x/api/
 ### GLOBALS
 No Window!!!
 ### __dirname
