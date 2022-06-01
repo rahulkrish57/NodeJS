@@ -25,7 +25,8 @@ Encapsulated Code (only share minimum)
 #### npm - global command, comes with node
 ### local dependency
 use it only in this particular project
-npm i <packageName>
+#### npm i (packageName)
 ### global dependency
 use it in any project
-npm install -g <pakageName>
+#### npm install -g (packageName)
+
