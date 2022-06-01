@@ -1,5 +1,4 @@
 # NodeJS
-## https://nodejs.org/docs/latest-v17.x/api/
 ### GLOBALS
 No Window!!!
 ### __dirname
@@ -21,3 +20,12 @@ Encapsulated Code (only share minimum)
 #### PATH
 #### FS
 #### HTTP
+
+## NPM 
+#### npm - global command, comes with node
+### local dependency
+use it only in this particular project
+#### npm i <packageName>
+### global dependency
+use it in any project
+#### npm install -g <pakageName>
