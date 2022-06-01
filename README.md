@@ -29,4 +29,5 @@ use it only in this particular project
 ### global dependency
 use it in any project
 #### npm install -g (packageName)
+#### sudo npm install -g (packageName)  for macOS
 
