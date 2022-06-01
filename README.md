@@ -16,3 +16,8 @@ info about env where the program is being executed
 ##### CommonJS, every file is module by default
 #### module
 Encapsulated Code (only share minimum)
+## Built-in modules
+#### OS
+#### PATH
+#### FS
+#### HTTP
