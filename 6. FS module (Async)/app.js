@@ -1,4 +1,5 @@
 const { readFile, writeFile } = require("fs");
+console.log("start")
 
 readFile("./content/first.txt", "utf8", (error, result) => {
   // utf8 not given then result is of buffer values
@@ -21,8 +22,9 @@ readFile("./content/first.txt", "utf8", (error, result) => {
             console.log(error);
             return;
           }
-        console.log(result)
+        console.log("done with this task")
       }
     );
   });
-});
+})
+console.log("start next task")
